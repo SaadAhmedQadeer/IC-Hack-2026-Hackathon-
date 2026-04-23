@@ -10,6 +10,7 @@ It Warns: The magic happens in the graph. We overlay these two distinct datasets
 
 ## Working Prototype :
 https://ic-hackathon-uk-2026-sentinel-price-vs-hype-msrwjuyrcsfrxhzgxd.streamlit.app/
+Demo : https://youtu.be/MNOGBhWF_TE?si=uO_L9aJso7KugNPW
 
 ## Built With
 natural-language-processing
